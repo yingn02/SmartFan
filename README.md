@@ -36,11 +36,7 @@
 |온도 센서에 감지된 온도가 실시간으로 변화합니다.|
 
 |           희망 동작 온도 설정           |
-
-
-https://github.com/user-attachments/assets/9aa5444d-18ee-467f-bfb6-da595966285b
-
-
+|https://github.com/user-attachments/assets/9aa5444d-18ee-467f-bfb6-da595966285b|
 |:-------------------------------------:|
 |실제 온도가 희망 동작 온도 보다 높으면 LED와 선풍기가 켜집니다.|
 
