@@ -1,5 +1,5 @@
 # Smart Fan
-<img src="[https://github.com/yingn02/capstone2024/assets/86876440/fac4a898-db5c-4129-bd09-880d28737a2e](https://github.com/user-attachments/assets/2ee1b385-bbce-4f55-a26c-9a36868ec3c3)"  width="720px">
+<img src="https://github.com/user-attachments/assets/d59d44d8-bc2c-4038-80a0-ccd6c28630e3"  width="720px">
 
 ## [프로젝트 개요]
 
