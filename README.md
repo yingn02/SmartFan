@@ -26,26 +26,27 @@
 ## [동작 화면]
 
 |                시작화면                |
-|![1](https://github.com/user-attachments/assets/c2b5809a-cfd6-4323-8577-3a01d4aa5f21)|
 |:-------------------------------------:|
+|![1](https://github.com/user-attachments/assets/c2b5809a-cfd6-4323-8577-3a01d4aa5f21)|
 |전원이 들어오면 가장 먼저 보여지는 화면|
 
 |            실시간 온도 감지            |
-|![2](https://github.com/user-attachments/assets/9e9fa638-337e-44f6-a810-c437ae49aec3)|
 |:-------------------------------------:|
+|![2](https://github.com/user-attachments/assets/9e9fa638-337e-44f6-a810-c437ae49aec3)|
 |온도 센서에 감지된 온도가 실시간으로 변화합니다.|
 
 |           희망 동작 온도 설정           |
-|![3](https://github.com/user-attachments/assets/8ea21a61-ddbb-4df5-b9e3-d956cf695ce3)|
 |:-------------------------------------:|
+|![3](https://github.com/user-attachments/assets/8ea21a61-ddbb-4df5-b9e3-d956cf695ce3)|
 |실제 온도가 희망 동작 온도 보다 높으면 LED와 선풍기가 켜집니다.|
 
 |                절전모드                |
-![4](https://github.com/user-attachments/assets/4656ca40-d714-4f56-98d8-991ceaa29e01)
 |:-------------------------------------:|
+![4](https://github.com/user-attachments/assets/4656ca40-d714-4f56-98d8-991ceaa29e01)
 |실제 온도가 희망 동작 온도 보다 높아도 선풍기가 켜지지 않습니다.|
 
 ## [유튜브 영상 링크]
+<a href="">영상 링크</a>
 
 ## [프로젝트 구조]
 
