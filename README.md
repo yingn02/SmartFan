@@ -45,8 +45,8 @@
 ![4](https://github.com/user-attachments/assets/4656ca40-d714-4f56-98d8-991ceaa29e01)
 |실제 온도가 희망 동작 온도 보다 높아도 선풍기가 켜지지 않습니다.|
 
-## [유튜브 영상 링크]
-<a href="">영상 링크</a>
+## [시연 영상 링크]
+<a href="https://youtu.be/B4J0zdUsopM">유튜브 링크</a>
 
 ## [프로젝트 구조]
 
