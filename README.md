@@ -104,7 +104,7 @@
 
 ## [프로젝트 구조]
 
-img
+<img src="https://github.com/user-attachments/assets/5b7b7185-c39e-44e6-8ac9-daab8c99ed5b"  width="720px">
 
 **개발 언어** : C(HAL 라이브러리)<br>
 **개발 도구** : STM32CubeIDE<br>
