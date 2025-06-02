@@ -50,6 +50,7 @@
 
 ## [프로젝트 구조]
 
+<img src="https://github.com/user-attachments/assets/2832964d-53d2-467d-a419-30a07912b147">
 <img src="https://github.com/user-attachments/assets/b4f014b3-8dc8-4c7e-aed3-5eac4ab0418c">
 
 **개발 언어** : C(HAL 라이브러리)<br>
