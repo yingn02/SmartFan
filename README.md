@@ -50,7 +50,7 @@
 
 ## [프로젝트 구조]
 
-<img src="https://github.com/user-attachments/assets/b4f014b3-8dc8-4c7e-aed3-5eac4ab0418c"  width="720px">
+<img src="https://github.com/user-attachments/assets/b4f014b3-8dc8-4c7e-aed3-5eac4ab0418c">
 
 **개발 언어** : C(HAL 라이브러리)<br>
 **개발 도구** : STM32CubeIDE, Visual Paradigm<br>
