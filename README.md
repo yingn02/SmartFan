@@ -107,7 +107,7 @@
 img
 
 **개발 언어** : C(HAL 라이브러리)<br>
-**개발 도구** : STM32CubeIDE, Visual Paradigm<br>
+**개발 도구** : STM32CubeIDE<br>
 **개발 보드** : STM32F103C8T6<br>
 
 ## [기대 효과]
